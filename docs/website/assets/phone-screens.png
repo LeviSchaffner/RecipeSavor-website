@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280" preserveAspectRatio="xMidYMid meet">
+  <rect width="720" height="1280" rx="48" fill="#0b1220" />
+  <g transform="translate(40,80)">
+    <rect width="640" height="1120" rx="28" fill="#081023" />
+    <text x="40" y="90" fill="#9aa9bc" font-family="Inter, sans-serif" font-size="24">(Replace with your transparent screenshots)</text>
+  </g>
+</svg>
